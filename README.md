@@ -5,9 +5,7 @@
 
 > languages im familiar with:
 > - html, css
-> 
 > - js
-> 
 > - c++
 <!---
 th3nd/th3nd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
