@@ -5,3 +5,6 @@
 
 ##### skills:
 [![Generic badge](https://img.shields.io/badge/html-great-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/css-great-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/js-good-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/cpp-good-<COLOR>.svg)](https://shields.io/)
