@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=hello+my+name+is;johannes&color=ffffff)](https://git.io/typing-svg)
-
 ##### skills:
 [![Generic badge](https://img.shields.io/badge/html-great-4598e6.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/css-great-4598e6.svg)](https://shields.io/)
